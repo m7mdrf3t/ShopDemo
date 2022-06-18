@@ -1,0 +1,17 @@
+/Users/mohamedhafez.isobar.com/utalities/Asset/WEB/AppDemo/AppDemo.Infrastructure/bin/Debug/net6.0/AppDemo.Infrastructure.deps.json
+/Users/mohamedhafez.isobar.com/utalities/Asset/WEB/AppDemo/AppDemo.Infrastructure/bin/Debug/net6.0/AppDemo.Infrastructure.runtimeconfig.json
+/Users/mohamedhafez.isobar.com/utalities/Asset/WEB/AppDemo/AppDemo.Infrastructure/bin/Debug/net6.0/AppDemo.Infrastructure.dll
+/Users/mohamedhafez.isobar.com/utalities/Asset/WEB/AppDemo/AppDemo.Infrastructure/bin/Debug/net6.0/AppDemo.Infrastructure.pdb
+/Users/mohamedhafez.isobar.com/utalities/Asset/WEB/AppDemo/AppDemo.Infrastructure/bin/Debug/net6.0/AppDemo.Core.dll
+/Users/mohamedhafez.isobar.com/utalities/Asset/WEB/AppDemo/AppDemo.Infrastructure/bin/Debug/net6.0/AppDemo.Core.pdb
+/Users/mohamedhafez.isobar.com/utalities/Asset/WEB/AppDemo/AppDemo.Infrastructure/obj/Debug/net6.0/AppDemo.Infrastructure.csproj.AssemblyReference.cache
+/Users/mohamedhafez.isobar.com/utalities/Asset/WEB/AppDemo/AppDemo.Infrastructure/obj/Debug/net6.0/AppDemo.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mohamedhafez.isobar.com/utalities/Asset/WEB/AppDemo/AppDemo.Infrastructure/obj/Debug/net6.0/AppDemo.Infrastructure.AssemblyInfoInputs.cache
+/Users/mohamedhafez.isobar.com/utalities/Asset/WEB/AppDemo/AppDemo.Infrastructure/obj/Debug/net6.0/AppDemo.Infrastructure.AssemblyInfo.cs
+/Users/mohamedhafez.isobar.com/utalities/Asset/WEB/AppDemo/AppDemo.Infrastructure/obj/Debug/net6.0/AppDemo.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/mohamedhafez.isobar.com/utalities/Asset/WEB/AppDemo/AppDemo.Infrastructure/obj/Debug/net6.0/AppDemo.Infrastructure.csproj.CopyComplete
+/Users/mohamedhafez.isobar.com/utalities/Asset/WEB/AppDemo/AppDemo.Infrastructure/obj/Debug/net6.0/AppDemo.Infrastructure.dll
+/Users/mohamedhafez.isobar.com/utalities/Asset/WEB/AppDemo/AppDemo.Infrastructure/obj/Debug/net6.0/refint/AppDemo.Infrastructure.dll
+/Users/mohamedhafez.isobar.com/utalities/Asset/WEB/AppDemo/AppDemo.Infrastructure/obj/Debug/net6.0/AppDemo.Infrastructure.pdb
+/Users/mohamedhafez.isobar.com/utalities/Asset/WEB/AppDemo/AppDemo.Infrastructure/obj/Debug/net6.0/AppDemo.Infrastructure.genruntimeconfig.cache
+/Users/mohamedhafez.isobar.com/utalities/Asset/WEB/AppDemo/AppDemo.Infrastructure/obj/Debug/net6.0/ref/AppDemo.Infrastructure.dll

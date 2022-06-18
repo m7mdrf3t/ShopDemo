@@ -1,0 +1,6 @@
+﻿<Properties StartupConfiguration="{545F83BD-5DC1-4554-AF86-6E22A0F105A2}|Default">
+  <MonoDevelop.Ide.ItemProperties.AppDemo.Web PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.ItemProperties.AppDemo.Core FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.AppDemo.Infrastructure FirstBuild="True" />
+</Properties>

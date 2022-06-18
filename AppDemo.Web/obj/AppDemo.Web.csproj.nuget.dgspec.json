@@ -1,0 +1,213 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/mohamedhafez.isobar.com/utalities/Asset/WEB/AppDemo/AppDemo.Web/AppDemo.Web.csproj": {}
+  },
+  "projects": {
+    "/Users/mohamedhafez.isobar.com/utalities/Asset/WEB/AppDemo/AppDemo.Core/AppDemo.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mohamedhafez.isobar.com/utalities/Asset/WEB/AppDemo/AppDemo.Core/AppDemo.Core.csproj",
+        "projectName": "AppDemo.Core",
+        "projectPath": "/Users/mohamedhafez.isobar.com/utalities/Asset/WEB/AppDemo/AppDemo.Core/AppDemo.Core.csproj",
+        "packagesPath": "/Users/mohamedhafez.isobar.com/.nuget/packages/",
+        "outputPath": "/Users/mohamedhafez.isobar.com/utalities/Asset/WEB/AppDemo/AppDemo.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mohamedhafez.isobar.com/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.300/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/mohamedhafez.isobar.com/utalities/Asset/WEB/AppDemo/AppDemo.Infrastructure/AppDemo.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mohamedhafez.isobar.com/utalities/Asset/WEB/AppDemo/AppDemo.Infrastructure/AppDemo.Infrastructure.csproj",
+        "projectName": "AppDemo.Infrastructure",
+        "projectPath": "/Users/mohamedhafez.isobar.com/utalities/Asset/WEB/AppDemo/AppDemo.Infrastructure/AppDemo.Infrastructure.csproj",
+        "packagesPath": "/Users/mohamedhafez.isobar.com/.nuget/packages/",
+        "outputPath": "/Users/mohamedhafez.isobar.com/utalities/Asset/WEB/AppDemo/AppDemo.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mohamedhafez.isobar.com/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/mohamedhafez.isobar.com/utalities/Asset/WEB/AppDemo/AppDemo.Core/AppDemo.Core.csproj": {
+                "projectPath": "/Users/mohamedhafez.isobar.com/utalities/Asset/WEB/AppDemo/AppDemo.Core/AppDemo.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.300/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/mohamedhafez.isobar.com/utalities/Asset/WEB/AppDemo/AppDemo.Web/AppDemo.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mohamedhafez.isobar.com/utalities/Asset/WEB/AppDemo/AppDemo.Web/AppDemo.Web.csproj",
+        "projectName": "AppDemo.Web",
+        "projectPath": "/Users/mohamedhafez.isobar.com/utalities/Asset/WEB/AppDemo/AppDemo.Web/AppDemo.Web.csproj",
+        "packagesPath": "/Users/mohamedhafez.isobar.com/.nuget/packages/",
+        "outputPath": "/Users/mohamedhafez.isobar.com/utalities/Asset/WEB/AppDemo/AppDemo.Web/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mohamedhafez.isobar.com/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/mohamedhafez.isobar.com/utalities/Asset/WEB/AppDemo/AppDemo.Infrastructure/AppDemo.Infrastructure.csproj": {
+                "projectPath": "/Users/mohamedhafez.isobar.com/utalities/Asset/WEB/AppDemo/AppDemo.Infrastructure/AppDemo.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.300/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

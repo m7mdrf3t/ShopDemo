@@ -1,0 +1,12 @@
+/Users/mohamedhafez.isobar.com/utalities/Asset/WEB/AppDemo/AppDemo.Core/bin/Debug/net6.0/AppDemo.Core.deps.json
+/Users/mohamedhafez.isobar.com/utalities/Asset/WEB/AppDemo/AppDemo.Core/bin/Debug/net6.0/AppDemo.Core.dll
+/Users/mohamedhafez.isobar.com/utalities/Asset/WEB/AppDemo/AppDemo.Core/bin/Debug/net6.0/AppDemo.Core.pdb
+/Users/mohamedhafez.isobar.com/utalities/Asset/WEB/AppDemo/AppDemo.Core/obj/Debug/net6.0/AppDemo.Core.csproj.AssemblyReference.cache
+/Users/mohamedhafez.isobar.com/utalities/Asset/WEB/AppDemo/AppDemo.Core/obj/Debug/net6.0/AppDemo.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mohamedhafez.isobar.com/utalities/Asset/WEB/AppDemo/AppDemo.Core/obj/Debug/net6.0/AppDemo.Core.AssemblyInfoInputs.cache
+/Users/mohamedhafez.isobar.com/utalities/Asset/WEB/AppDemo/AppDemo.Core/obj/Debug/net6.0/AppDemo.Core.AssemblyInfo.cs
+/Users/mohamedhafez.isobar.com/utalities/Asset/WEB/AppDemo/AppDemo.Core/obj/Debug/net6.0/AppDemo.Core.csproj.CoreCompileInputs.cache
+/Users/mohamedhafez.isobar.com/utalities/Asset/WEB/AppDemo/AppDemo.Core/obj/Debug/net6.0/AppDemo.Core.dll
+/Users/mohamedhafez.isobar.com/utalities/Asset/WEB/AppDemo/AppDemo.Core/obj/Debug/net6.0/refint/AppDemo.Core.dll
+/Users/mohamedhafez.isobar.com/utalities/Asset/WEB/AppDemo/AppDemo.Core/obj/Debug/net6.0/AppDemo.Core.pdb
+/Users/mohamedhafez.isobar.com/utalities/Asset/WEB/AppDemo/AppDemo.Core/obj/Debug/net6.0/ref/AppDemo.Core.dll
